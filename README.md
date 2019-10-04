@@ -1,2 +1,2 @@
 # invie-github
-aprendiendo git y github con apps.co
+aprendiendo git y github con apps.co @creyes
